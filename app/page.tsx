@@ -1,4 +1,3 @@
-import Product from "./Product/page";
 import Link from "next/link";
 
 export default function Home() {
